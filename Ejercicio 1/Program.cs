@@ -30,7 +30,7 @@ class Program
                     string nombre = Console.ReadLine();
                 
                     estudiantes[id] = nombre;
-                    Console.WriteLine("¡Guardado!");
+                    Console.WriteLine("Guardado");
                 }
 
                 Console.WriteLine("\nSe han completado los 3 registros correctamente.");
